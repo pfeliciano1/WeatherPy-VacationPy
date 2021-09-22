@@ -1,6 +1,4 @@
-# python-api-challenge
-
-# Python API Homework - What's the Weather Like?
+# What's the Weather Like?
 ## Background
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
@@ -43,15 +41,15 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 To complete this part of the assignment,you will need to do the following:
 
-Create a heat map that displays the humidity for every city from Part I.
+- Create a heat map that displays the humidity for every city from Part I.
 
-Narrow down the DataFrame to find your ideal weather condition. For example:
+- Narrow down the DataFrame to find your ideal weather condition. For example:
 
-A max temperature lower than 80 degrees but higher than 70.
+- A max temperature lower than 80 degrees but higher than 70.
 
-Wind speed less than 10 mph.
+- Wind speed less than 10 mph.
 
-Zero cloudiness.
+- Zero cloudiness.
 
 Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
 
